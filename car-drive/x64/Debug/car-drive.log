@@ -1,0 +1,23 @@
+﻿  CarScaleOfFines.cpp
+  MyForm.cpp
+C:\Users\peter\source\repos\car-drive\car-drive\MyForm.h(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\RoadType.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\MyForm.h(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\MyForm.cpp(7,33): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  RoadType.cpp
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\RoadType.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  ScaleOfFines.cpp
+  Speed.cpp
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\peter\source\repos\car-drive\car-drive\Speed.h(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  TruckScaleOfFines.cpp
+  Generowanie kodu...
+  CarScaleOfFines.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  car-drive.vcxproj -> C:\Users\peter\source\repos\car-drive\x64\Debug\car-drive.exe

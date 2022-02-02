@@ -1,0 +1,14 @@
+#pragma once
+class Stale
+{
+public:
+    enum RodzajAuta {
+        SAMOCHOD, CIEZAROWKA
+    };
+    enum RodzajDrogi {
+        STREFA_ZAMIESZKANIA, OBSZAR_ZABUDOWANY, DROGA_JEDNOJEZDNIOWA,
+        DROGA_DWUJEZDNIOWA, DROGA_JEDNOJEZDNIOWA_EKSPRESOWA,
+        DROGA_DWUJEZDNIOWA_EKSPRESOWA, AUTOSTRADA
+    };
+};
+

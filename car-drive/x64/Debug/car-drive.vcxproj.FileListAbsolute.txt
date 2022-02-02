@@ -1,0 +1,6 @@
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\car-drive.vcxproj.AssemblyReference.cache
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\car-drive.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\cardrive.MyForm.resources
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\car-drive.vcxproj.GenerateResource.cache
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\cardrive.RoadType.resources
+C:\Users\peter\source\repos\car-drive\car-drive\x64\Debug\cardrive.Speed.resources
